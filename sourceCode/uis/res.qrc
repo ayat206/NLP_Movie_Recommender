@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>materials/dataEntryBG.png</file>
+    <file>materials/homeSideMenu.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>materials/icons/search.png</file>
+    <file>materials/icons/natural-language-processing.png</file>
+    <file>materials/icons/eat.png</file>
+    <file>materials/icons/radio-waves.png</file>
+    <file>materials/icons/user4.png</file>
+    <file>materials/icons/info7.png</file>
+  </qresource>
+</RCC>
